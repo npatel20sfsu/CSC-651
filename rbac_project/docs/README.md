@@ -43,8 +43,11 @@ Logs in logs/:
 5. Monitor logs and run backup.sh or verify cron backup.
 
 **Team:**
+
 Nidhey Patel – Server setup
+
 Pritham Sandhu – User & permissions, documentation
+
 Manjot Singh – Network security & firewall
 
 
