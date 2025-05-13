@@ -22,18 +22,18 @@ rbac_project/
 **Setup Summary:**
 
 Scripts included in scripts/:
-create_users.sh – Creates users and groups
-setup_directories.sh – Sets folder permissions
-backup.sh – Runs rsync backup with logs
+1. create_users.sh – Creates users and groups
+2. setup_directories.sh – Sets folder permissions
+3. backup.sh – Runs rsync backup with logs
 
 Configs in configs/:
-sshd_config – Secures SSH access
-smb.conf – Defines department shares
-jail.local – Enables Fail2Ban SSH protection
+1. sshd_config – Secures SSH access
+2. smb.conf – Defines department shares
+3. jail.local – Enables Fail2Ban SSH protection
 
 Logs in logs/:
-backup.log – Backup history
-test_results.log – Output of test validation
+1. backup.log – Backup history
+2. test_results.log – Output of test validation
 
 **How to Run:**
 1. Clone the repo and run create_users.sh and setup_directories.sh.
