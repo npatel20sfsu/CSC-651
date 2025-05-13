@@ -1,11 +1,14 @@
 CSC651 SYSTEM ADMINISTRATION – SPRING 2025
-PROJECT NAME:
-Role-Based Access Management on Ubuntu Server for a Medium-Sized Company
+
+PROJECT NAME: Role-Based Access Management on Ubuntu Server for a Medium-Sized Company
 
 GROUP MEMBERS' NAMES AND RESPONSIBILITIES:
+
 • Nidhey Patel – Server Setup & Configuration
+
 • Pritham Sandhu – User Account Management & Permissions/ Documentation &
 Reporting
+
 • Manjot Singh– Network Security & Firewall Rules
 
 PROJECT DESCRIPTION:
@@ -15,6 +18,7 @@ is to assign appropriate permission levels to different departments (e.g., HR, I
 ensuring data isolation, integrity, and secure access using native Linux tools and services.
 
 TECHNICAL SPECIFICATIONS:
+
 • Operating System:
   Ubuntu Server 22.04 LTS
   
