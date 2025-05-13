@@ -47,5 +47,4 @@ Nidhey Patel – Server setup
 Pritham Sandhu – User & permissions, documentation
 Manjot Singh – Network security & firewall
 
-**License:**
-This project is for academic purposes under CSC651 – Spring 2025.
+
